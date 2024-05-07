@@ -1,3 +1,7 @@
+---
+title: Axolotls are Cool
+layout: default
+---
 
 ![two cats on a quilt](images/chevron-cats.jpg)
 
