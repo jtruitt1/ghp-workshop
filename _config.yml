@@ -1,6 +1,6 @@
 title: Axolotls are Cool
 description: A celebration of aquatic amphibians
 
-remote_theme: janessatran/laloyd
+remote_theme: brandoncardoso/hima
 plugins:
 - jekyll-remote-theme
